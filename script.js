@@ -1,4 +1,4 @@
-
+// ***copy and pasted*** from the internet, then edited to fit what i wanted
 const Keyboard = {
     elements: {
         main: null,
